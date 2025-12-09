@@ -1,0 +1,4502 @@
+[
+  {
+    "Date":"2024-04-12",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":14.0,
+    "Price":349.9,
+    "Revenue":2638.59,
+    "Customer_ID":8230
+  },
+  {
+    "Date":"2025-03-11",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":48.0,
+    "Price":118.18,
+    "Revenue":4974.84,
+    "Customer_ID":2531
+  },
+  {
+    "Date":"2024-12-14",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":55.0,
+    "Price":50.37,
+    "Revenue":383.12,
+    "Customer_ID":3990
+  },
+  {
+    "Date":"2024-09-27",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":48.0,
+    "Price":343.44,
+    "Revenue":3505.67,
+    "Customer_ID":8155
+  },
+  {
+    "Date":"2024-04-16",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":82.0,
+    "Price":330.71,
+    "Revenue":4920.03,
+    "Customer_ID":5493
+  },
+  {
+    "Date":"2024-03-12",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":7.0,
+    "Price":143.9,
+    "Revenue":1271.98,
+    "Customer_ID":1933
+  },
+  {
+    "Date":"2024-07-07",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":74.0,
+    "Price":475.92,
+    "Revenue":797.02,
+    "Customer_ID":2460
+  },
+  {
+    "Date":"2024-01-21",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":7.0,
+    "Price":84.02,
+    "Revenue":694.79,
+    "Customer_ID":3723
+  },
+  {
+    "Date":"2024-04-12",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":33.0,
+    "Price":221.84,
+    "Revenue":1586.05,
+    "Customer_ID":1285
+  },
+  {
+    "Date":"2024-05-01",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":23.0,
+    "Price":472.37,
+    "Revenue":595.12,
+    "Customer_ID":1264
+  },
+  {
+    "Date":"2025-04-11",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":85.0,
+    "Price":215.67,
+    "Revenue":3491.59,
+    "Customer_ID":7816
+  },
+  {
+    "Date":"2024-08-02",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":19.0,
+    "Price":322.88,
+    "Revenue":2638.59,
+    "Customer_ID":2762
+  },
+  {
+    "Date":"2024-11-26",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":19.0,
+    "Price":204.82,
+    "Revenue":2596.17,
+    "Customer_ID":1040
+  },
+  {
+    "Date":"2025-04-03",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":36.0,
+    "Price":144.37,
+    "Revenue":4983.81,
+    "Customer_ID":6827
+  },
+  {
+    "Date":"2024-03-28",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":29.0,
+    "Price":492.15,
+    "Revenue":4088.45,
+    "Customer_ID":9259
+  },
+  {
+    "Date":"2025-01-07",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":60.0,
+    "Price":210.57,
+    "Revenue":3114.58,
+    "Customer_ID":1987
+  },
+  {
+    "Date":"2024-04-09",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":82.0,
+    "Price":448.11,
+    "Revenue":1600.64,
+    "Customer_ID":8804
+  },
+  {
+    "Date":"2024-12-25",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":2.0,
+    "Price":122.68,
+    "Revenue":3157.09,
+    "Customer_ID":8789
+  },
+  {
+    "Date":"2024-05-31",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":1.0,
+    "Price":114.42,
+    "Revenue":2682.5,
+    "Customer_ID":6717
+  },
+  {
+    "Date":"2024-05-10",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":47.0,
+    "Price":25.26,
+    "Revenue":2187.81,
+    "Customer_ID":4198
+  },
+  {
+    "Date":"2024-05-29",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":69.0,
+    "Price":329.32,
+    "Revenue":740.48,
+    "Customer_ID":6374
+  },
+  {
+    "Date":"2024-11-04",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":20.0,
+    "Price":190.58,
+    "Revenue":4444.36,
+    "Customer_ID":5790
+  },
+  {
+    "Date":"2024-09-14",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":11.0,
+    "Price":433.54,
+    "Revenue":2303.94,
+    "Customer_ID":8183
+  },
+  {
+    "Date":"2024-12-09",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":2.0,
+    "Price":241.87,
+    "Revenue":2638.59,
+    "Customer_ID":3524
+  },
+  {
+    "Date":"2025-05-06",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":67.0,
+    "Price":484.41,
+    "Revenue":1902.02,
+    "Customer_ID":3479
+  },
+  {
+    "Date":"2025-02-17",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":87.0,
+    "Price":100.91,
+    "Revenue":2129.24,
+    "Customer_ID":6154
+  },
+  {
+    "Date":"2024-10-20",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":12.0,
+    "Price":435.63,
+    "Revenue":2638.59,
+    "Customer_ID":1778
+  },
+  {
+    "Date":"2025-01-20",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":20.0,
+    "Price":390.53,
+    "Revenue":3694.71,
+    "Customer_ID":2492
+  },
+  {
+    "Date":"2024-07-10",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":5.0,
+    "Price":387.75,
+    "Revenue":3869.59,
+    "Customer_ID":1660
+  },
+  {
+    "Date":"2025-03-19",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":37.0,
+    "Price":423.94,
+    "Revenue":154.05,
+    "Customer_ID":2348
+  },
+  {
+    "Date":"2024-10-03",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":38.0,
+    "Price":382.9,
+    "Revenue":2139.15,
+    "Customer_ID":8851
+  },
+  {
+    "Date":"2024-06-09",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":94.0,
+    "Price":316.85,
+    "Revenue":2458.59,
+    "Customer_ID":8156
+  },
+  {
+    "Date":"2025-04-04",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":9.0,
+    "Price":74.31,
+    "Revenue":194.04,
+    "Customer_ID":3044
+  },
+  {
+    "Date":"2024-11-09",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":98.0,
+    "Price":25.94,
+    "Revenue":1373.08,
+    "Customer_ID":8368
+  },
+  {
+    "Date":"2024-01-22",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":53.0,
+    "Price":461.22,
+    "Revenue":3825.42,
+    "Customer_ID":4516
+  },
+  {
+    "Date":"2024-09-09",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":44.0,
+    "Price":312.16,
+    "Revenue":771.84,
+    "Customer_ID":5577
+  },
+  {
+    "Date":"2024-08-23",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":48.0,
+    "Price":400.3,
+    "Revenue":2723.02,
+    "Customer_ID":1727
+  },
+  {
+    "Date":"2024-12-10",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":86.0,
+    "Price":245.95,
+    "Revenue":1154.49,
+    "Customer_ID":8468
+  },
+  {
+    "Date":"2024-02-18",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":24.0,
+    "Price":67.48,
+    "Revenue":159.39,
+    "Customer_ID":1342
+  },
+  {
+    "Date":"2025-04-19",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":81.0,
+    "Price":71.34,
+    "Revenue":1281.89,
+    "Customer_ID":2447
+  },
+  {
+    "Date":"2024-02-28",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":74.0,
+    "Price":345.93,
+    "Revenue":4881.78,
+    "Customer_ID":7581
+  },
+  {
+    "Date":"2024-06-18",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":30.0,
+    "Price":220.85,
+    "Revenue":4027.53,
+    "Customer_ID":7317
+  },
+  {
+    "Date":"2025-04-20",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":59.0,
+    "Price":108.26,
+    "Revenue":4801.93,
+    "Customer_ID":1526
+  },
+  {
+    "Date":"2024-07-06",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":87.0,
+    "Price":250.88,
+    "Revenue":2490.48,
+    "Customer_ID":7748
+  },
+  {
+    "Date":"2025-04-08",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":96.0,
+    "Price":41.46,
+    "Revenue":637.71,
+    "Customer_ID":1405
+  },
+  {
+    "Date":"2024-09-27",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":81.0,
+    "Price":295.17,
+    "Revenue":2785.0,
+    "Customer_ID":8986
+  },
+  {
+    "Date":"2024-07-08",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":81.0,
+    "Price":141.81,
+    "Revenue":2326.45,
+    "Customer_ID":4740
+  },
+  {
+    "Date":"2025-03-21",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":14.0,
+    "Price":400.8,
+    "Revenue":4237.35,
+    "Customer_ID":2846
+  },
+  {
+    "Date":"2024-06-23",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":9.0,
+    "Price":162.08,
+    "Revenue":580.6,
+    "Customer_ID":2478
+  },
+  {
+    "Date":"2025-03-21",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":40.0,
+    "Price":233.06,
+    "Revenue":2492.38,
+    "Customer_ID":1771
+  },
+  {
+    "Date":"2024-02-20",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":66.0,
+    "Price":15.69,
+    "Revenue":835.24,
+    "Customer_ID":6525
+  },
+  {
+    "Date":"2024-12-29",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":25.0,
+    "Price":45.5,
+    "Revenue":1690.91,
+    "Customer_ID":9770
+  },
+  {
+    "Date":"2024-02-24",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":73.0,
+    "Price":202.32,
+    "Revenue":3713.05,
+    "Customer_ID":1193
+  },
+  {
+    "Date":"2024-08-31",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":22.0,
+    "Price":245.17,
+    "Revenue":2432.49,
+    "Customer_ID":3007
+  },
+  {
+    "Date":"2024-11-15",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":4.0,
+    "Price":304.01,
+    "Revenue":1941.85,
+    "Customer_ID":2185
+  },
+  {
+    "Date":"2024-05-10",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":26.0,
+    "Price":152.91,
+    "Revenue":2032.93,
+    "Customer_ID":3394
+  },
+  {
+    "Date":"2025-04-29",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":58.0,
+    "Price":350.54,
+    "Revenue":2351.29,
+    "Customer_ID":5005
+  },
+  {
+    "Date":"2024-11-02",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":29.0,
+    "Price":431.46,
+    "Revenue":3946.58,
+    "Customer_ID":8429
+  },
+  {
+    "Date":"2024-05-14",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":98.0,
+    "Price":392.13,
+    "Revenue":4471.21,
+    "Customer_ID":3261
+  },
+  {
+    "Date":"2024-01-21",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":87.0,
+    "Price":29.41,
+    "Revenue":4781.14,
+    "Customer_ID":4736
+  },
+  {
+    "Date":"2024-11-24",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":37.0,
+    "Price":245.45,
+    "Revenue":3955.83,
+    "Customer_ID":7716
+  },
+  {
+    "Date":"2024-06-15",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":75.0,
+    "Price":61.42,
+    "Revenue":1645.49,
+    "Customer_ID":5875
+  },
+  {
+    "Date":"2024-09-30",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":70.0,
+    "Price":128.6,
+    "Revenue":3471.86,
+    "Customer_ID":9921
+  },
+  {
+    "Date":"2025-01-22",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":18.0,
+    "Price":493.46,
+    "Revenue":2244.26,
+    "Customer_ID":5378
+  },
+  {
+    "Date":"2024-03-29",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":85.0,
+    "Price":79.82,
+    "Revenue":1347.89,
+    "Customer_ID":8815
+  },
+  {
+    "Date":"2024-11-11",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":42.0,
+    "Price":254.46,
+    "Revenue":4220.27,
+    "Customer_ID":4451
+  },
+  {
+    "Date":"2024-01-14",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":41.0,
+    "Price":312.9,
+    "Revenue":288.29,
+    "Customer_ID":8616
+  },
+  {
+    "Date":"2024-08-29",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":38.0,
+    "Price":354.21,
+    "Revenue":4518.63,
+    "Customer_ID":3800
+  },
+  {
+    "Date":"2024-09-21",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":34.0,
+    "Price":284.23,
+    "Revenue":2361.24,
+    "Customer_ID":9333
+  },
+  {
+    "Date":"2024-12-11",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":17.0,
+    "Price":14.79,
+    "Revenue":2638.59,
+    "Customer_ID":6410
+  },
+  {
+    "Date":"2024-02-22",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":37.0,
+    "Price":169.97,
+    "Revenue":3330.83,
+    "Customer_ID":2455
+  },
+  {
+    "Date":"2025-01-20",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":25.0,
+    "Price":263.68,
+    "Revenue":4486.08,
+    "Customer_ID":7892
+  },
+  {
+    "Date":"2024-12-05",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":76.0,
+    "Price":53.05,
+    "Revenue":3219.68,
+    "Customer_ID":6808
+  },
+  {
+    "Date":"2024-04-01",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":87.0,
+    "Price":181.81,
+    "Revenue":3108.27,
+    "Customer_ID":7796
+  },
+  {
+    "Date":"2025-01-01",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":86.0,
+    "Price":26.27,
+    "Revenue":426.59,
+    "Customer_ID":5796
+  },
+  {
+    "Date":"2025-03-19",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":85.0,
+    "Price":48.5,
+    "Revenue":2640.2,
+    "Customer_ID":6093
+  },
+  {
+    "Date":"2025-03-30",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":27.0,
+    "Price":204.49,
+    "Revenue":835.83,
+    "Customer_ID":2325
+  },
+  {
+    "Date":"2025-03-03",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":57.0,
+    "Price":75.03,
+    "Revenue":3713.43,
+    "Customer_ID":5976
+  },
+  {
+    "Date":"2024-09-20",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":31.0,
+    "Price":288.1,
+    "Revenue":2609.89,
+    "Customer_ID":2159
+  },
+  {
+    "Date":"2025-03-06",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":48.0,
+    "Price":347.84,
+    "Revenue":3433.12,
+    "Customer_ID":5650
+  },
+  {
+    "Date":"2024-02-04",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":91.0,
+    "Price":402.29,
+    "Revenue":304.2,
+    "Customer_ID":5987
+  },
+  {
+    "Date":"2024-07-24",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":40.0,
+    "Price":108.07,
+    "Revenue":515.48,
+    "Customer_ID":5697
+  },
+  {
+    "Date":"2024-03-21",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":98.0,
+    "Price":92.07,
+    "Revenue":3609.98,
+    "Customer_ID":1340
+  },
+  {
+    "Date":"2025-02-23",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":12.0,
+    "Price":61.24,
+    "Revenue":453.21,
+    "Customer_ID":4828
+  },
+  {
+    "Date":"2024-02-19",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":53.0,
+    "Price":321.85,
+    "Revenue":449.16,
+    "Customer_ID":2968
+  },
+  {
+    "Date":"2024-12-25",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":71.0,
+    "Price":356.17,
+    "Revenue":159.33,
+    "Customer_ID":1703
+  },
+  {
+    "Date":"2025-01-22",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":10.0,
+    "Price":25.48,
+    "Revenue":4786.86,
+    "Customer_ID":6482
+  },
+  {
+    "Date":"2024-01-02",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":45.0,
+    "Price":468.74,
+    "Revenue":3713.79,
+    "Customer_ID":7376
+  },
+  {
+    "Date":"2025-01-24",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":17.0,
+    "Price":35.47,
+    "Revenue":1830.93,
+    "Customer_ID":2800
+  },
+  {
+    "Date":"2024-02-23",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":26.0,
+    "Price":275.24,
+    "Revenue":2638.59,
+    "Customer_ID":6463
+  },
+  {
+    "Date":"2024-04-15",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":85.0,
+    "Price":357.44,
+    "Revenue":1813.55,
+    "Customer_ID":5912
+  },
+  {
+    "Date":"2024-09-16",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":92.0,
+    "Price":436.77,
+    "Revenue":3895.8,
+    "Customer_ID":5648
+  },
+  {
+    "Date":"2024-11-05",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":62.0,
+    "Price":359.9,
+    "Revenue":3340.72,
+    "Customer_ID":1855
+  },
+  {
+    "Date":"2025-04-21",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":46.0,
+    "Price":402.85,
+    "Revenue":1007.46,
+    "Customer_ID":3866
+  },
+  {
+    "Date":"2024-07-09",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":64.0,
+    "Price":176.33,
+    "Revenue":953.14,
+    "Customer_ID":1182
+  },
+  {
+    "Date":"2025-02-05",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":2.0,
+    "Price":409.26,
+    "Revenue":582.14,
+    "Customer_ID":4112
+  },
+  {
+    "Date":"2024-08-05",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":54.0,
+    "Price":49.26,
+    "Revenue":3335.48,
+    "Customer_ID":6670
+  },
+  {
+    "Date":"2024-02-13",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":65.0,
+    "Price":448.46,
+    "Revenue":3845.43,
+    "Customer_ID":5492
+  },
+  {
+    "Date":"2024-06-10",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":51.0,
+    "Price":278.32,
+    "Revenue":1398.73,
+    "Customer_ID":6823
+  },
+  {
+    "Date":"2024-07-20",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":53.0,
+    "Price":410.48,
+    "Revenue":202.63,
+    "Customer_ID":2517
+  },
+  {
+    "Date":"2025-03-21",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":36.0,
+    "Price":231.64,
+    "Revenue":2638.59,
+    "Customer_ID":6002
+  },
+  {
+    "Date":"2025-04-28",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":26.0,
+    "Price":325.35,
+    "Revenue":4842.51,
+    "Customer_ID":2356
+  },
+  {
+    "Date":"2024-09-26",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":29.0,
+    "Price":267.94,
+    "Revenue":1547.68,
+    "Customer_ID":4629
+  },
+  {
+    "Date":"2024-12-16",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":21.0,
+    "Price":368.48,
+    "Revenue":3869.19,
+    "Customer_ID":4628
+  },
+  {
+    "Date":"2024-10-30",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":11.0,
+    "Price":50.0,
+    "Revenue":3160.85,
+    "Customer_ID":9210
+  },
+  {
+    "Date":"2024-09-27",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":40.0,
+    "Price":39.57,
+    "Revenue":1971.5,
+    "Customer_ID":7132
+  },
+  {
+    "Date":"2025-03-31",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":11.0,
+    "Price":131.08,
+    "Revenue":1107.87,
+    "Customer_ID":7588
+  },
+  {
+    "Date":"2025-04-06",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":36.0,
+    "Price":88.18,
+    "Revenue":694.79,
+    "Customer_ID":4311
+  },
+  {
+    "Date":"2024-08-02",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":59.0,
+    "Price":437.17,
+    "Revenue":3113.56,
+    "Customer_ID":7048
+  },
+  {
+    "Date":"2024-09-08",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":39.0,
+    "Price":117.41,
+    "Revenue":3895.71,
+    "Customer_ID":7246
+  },
+  {
+    "Date":"2024-07-08",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":99.0,
+    "Price":488.17,
+    "Revenue":3255.13,
+    "Customer_ID":1987
+  },
+  {
+    "Date":"2024-10-22",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":54.0,
+    "Price":175.08,
+    "Revenue":2698.48,
+    "Customer_ID":4321
+  },
+  {
+    "Date":"2024-07-31",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":98.0,
+    "Price":99.24,
+    "Revenue":305.56,
+    "Customer_ID":5615
+  },
+  {
+    "Date":"2024-07-26",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":55.0,
+    "Price":396.95,
+    "Revenue":4845.6,
+    "Customer_ID":9365
+  },
+  {
+    "Date":"2024-08-24",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":24.0,
+    "Price":332.77,
+    "Revenue":4013.7,
+    "Customer_ID":4741
+  },
+  {
+    "Date":"2024-12-03",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":22.0,
+    "Price":254.12,
+    "Revenue":1534.83,
+    "Customer_ID":4052
+  },
+  {
+    "Date":"2025-01-01",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":69.0,
+    "Price":282.13,
+    "Revenue":4901.85,
+    "Customer_ID":7574
+  },
+  {
+    "Date":"2024-02-22",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":56.0,
+    "Price":362.41,
+    "Revenue":3049.22,
+    "Customer_ID":1726
+  },
+  {
+    "Date":"2024-10-06",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":33.0,
+    "Price":121.94,
+    "Revenue":2638.59,
+    "Customer_ID":4760
+  },
+  {
+    "Date":"2025-02-13",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":36.0,
+    "Price":498.2,
+    "Revenue":3765.56,
+    "Customer_ID":6806
+  },
+  {
+    "Date":"2024-08-04",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":20.0,
+    "Price":487.65,
+    "Revenue":4077.67,
+    "Customer_ID":2875
+  },
+  {
+    "Date":"2024-09-08",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":83.0,
+    "Price":328.66,
+    "Revenue":3316.75,
+    "Customer_ID":7993
+  },
+  {
+    "Date":"2024-07-06",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":99.0,
+    "Price":107.78,
+    "Revenue":727.67,
+    "Customer_ID":5033
+  },
+  {
+    "Date":"2025-01-14",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":81.0,
+    "Price":343.31,
+    "Revenue":1757.51,
+    "Customer_ID":6443
+  },
+  {
+    "Date":"2025-05-07",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":62.0,
+    "Price":45.38,
+    "Revenue":4647.61,
+    "Customer_ID":1989
+  },
+  {
+    "Date":"2024-02-10",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":98.0,
+    "Price":25.02,
+    "Revenue":1200.62,
+    "Customer_ID":4744
+  },
+  {
+    "Date":"2024-06-05",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":73.0,
+    "Price":136.26,
+    "Revenue":1923.62,
+    "Customer_ID":9611
+  },
+  {
+    "Date":"2024-01-15",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":26.0,
+    "Price":236.69,
+    "Revenue":2217.18,
+    "Customer_ID":1593
+  },
+  {
+    "Date":"2024-10-27",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":66.0,
+    "Price":435.45,
+    "Revenue":2253.08,
+    "Customer_ID":2774
+  },
+  {
+    "Date":"2024-03-05",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":48.0,
+    "Price":366.31,
+    "Revenue":3103.4,
+    "Customer_ID":1935
+  },
+  {
+    "Date":"2024-12-10",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":73.0,
+    "Price":373.93,
+    "Revenue":4721.07,
+    "Customer_ID":4808
+  },
+  {
+    "Date":"2024-11-22",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":40.0,
+    "Price":218.49,
+    "Revenue":1279.39,
+    "Customer_ID":1331
+  },
+  {
+    "Date":"2024-01-09",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":17.0,
+    "Price":179.51,
+    "Revenue":695.36,
+    "Customer_ID":8922
+  },
+  {
+    "Date":"2024-12-09",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":1.0,
+    "Price":191.81,
+    "Revenue":1067.61,
+    "Customer_ID":3702
+  },
+  {
+    "Date":"2024-05-08",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":89.0,
+    "Price":493.95,
+    "Revenue":4445.93,
+    "Customer_ID":6889
+  },
+  {
+    "Date":"2025-05-06",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":61.0,
+    "Price":29.65,
+    "Revenue":3264.47,
+    "Customer_ID":6054
+  },
+  {
+    "Date":"2024-05-15",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":43.0,
+    "Price":434.85,
+    "Revenue":1500.94,
+    "Customer_ID":4868
+  },
+  {
+    "Date":"2025-04-16",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":42.0,
+    "Price":293.55,
+    "Revenue":4098.14,
+    "Customer_ID":5200
+  },
+  {
+    "Date":"2024-03-03",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":25.0,
+    "Price":224.92,
+    "Revenue":4320.71,
+    "Customer_ID":1201
+  },
+  {
+    "Date":"2024-05-18",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":39.0,
+    "Price":365.38,
+    "Revenue":4247.92,
+    "Customer_ID":3497
+  },
+  {
+    "Date":"2025-05-13",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":35.0,
+    "Price":248.47,
+    "Revenue":4602.74,
+    "Customer_ID":2842
+  },
+  {
+    "Date":"2024-03-21",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":3.0,
+    "Price":437.98,
+    "Revenue":1335.98,
+    "Customer_ID":5658
+  },
+  {
+    "Date":"2025-01-26",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":44.0,
+    "Price":451.34,
+    "Revenue":3799.71,
+    "Customer_ID":8544
+  },
+  {
+    "Date":"2024-06-11",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":51.0,
+    "Price":216.64,
+    "Revenue":2356.64,
+    "Customer_ID":8718
+  },
+  {
+    "Date":"2025-02-22",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":94.0,
+    "Price":145.65,
+    "Revenue":4225.79,
+    "Customer_ID":1770
+  },
+  {
+    "Date":"2024-10-15",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":98.0,
+    "Price":300.25,
+    "Revenue":3669.6,
+    "Customer_ID":4155
+  },
+  {
+    "Date":"2025-01-13",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":12.0,
+    "Price":457.06,
+    "Revenue":3904.59,
+    "Customer_ID":2628
+  },
+  {
+    "Date":"2024-09-17",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":19.0,
+    "Price":113.22,
+    "Revenue":3315.19,
+    "Customer_ID":1386
+  },
+  {
+    "Date":"2025-05-04",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":44.0,
+    "Price":315.25,
+    "Revenue":2638.59,
+    "Customer_ID":7031
+  },
+  {
+    "Date":"2024-08-18",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":59.0,
+    "Price":319.46,
+    "Revenue":2770.63,
+    "Customer_ID":7439
+  },
+  {
+    "Date":"2024-02-10",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":49.0,
+    "Price":369.23,
+    "Revenue":4924.88,
+    "Customer_ID":7401
+  },
+  {
+    "Date":"2024-01-28",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":61.0,
+    "Price":74.47,
+    "Revenue":4693.2,
+    "Customer_ID":5008
+  },
+  {
+    "Date":"2024-05-14",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":17.0,
+    "Price":360.75,
+    "Revenue":311.55,
+    "Customer_ID":3466
+  },
+  {
+    "Date":"2024-07-19",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":74.0,
+    "Price":455.43,
+    "Revenue":907.59,
+    "Customer_ID":3282
+  },
+  {
+    "Date":"2024-11-23",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":57.0,
+    "Price":98.04,
+    "Revenue":745.47,
+    "Customer_ID":2856
+  },
+  {
+    "Date":"2024-09-24",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":55.0,
+    "Price":126.4,
+    "Revenue":3657.3,
+    "Customer_ID":8980
+  },
+  {
+    "Date":"2025-02-21",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":47.0,
+    "Price":485.98,
+    "Revenue":4107.15,
+    "Customer_ID":2998
+  },
+  {
+    "Date":"2024-02-02",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":48.0,
+    "Price":98.68,
+    "Revenue":1146.21,
+    "Customer_ID":6476
+  },
+  {
+    "Date":"2024-02-17",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":62.0,
+    "Price":428.65,
+    "Revenue":2578.68,
+    "Customer_ID":5669
+  },
+  {
+    "Date":"2025-02-10",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":80.0,
+    "Price":251.22,
+    "Revenue":4219.44,
+    "Customer_ID":5318
+  },
+  {
+    "Date":"2024-03-02",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":88.0,
+    "Price":131.14,
+    "Revenue":3690.73,
+    "Customer_ID":8064
+  },
+  {
+    "Date":"2024-08-03",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":83.0,
+    "Price":436.67,
+    "Revenue":2756.96,
+    "Customer_ID":8446
+  },
+  {
+    "Date":"2024-10-19",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":8.0,
+    "Price":228.2,
+    "Revenue":2992.7,
+    "Customer_ID":2431
+  },
+  {
+    "Date":"2024-04-08",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":95.0,
+    "Price":262.26,
+    "Revenue":2590.97,
+    "Customer_ID":6624
+  },
+  {
+    "Date":"2024-06-20",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":21.0,
+    "Price":186.02,
+    "Revenue":1557.99,
+    "Customer_ID":8461
+  },
+  {
+    "Date":"2024-12-25",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":81.0,
+    "Price":300.55,
+    "Revenue":2868.61,
+    "Customer_ID":2819
+  },
+  {
+    "Date":"2024-08-01",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":87.0,
+    "Price":90.13,
+    "Revenue":3475.54,
+    "Customer_ID":2130
+  },
+  {
+    "Date":"2025-04-19",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":80.0,
+    "Price":201.63,
+    "Revenue":4379.28,
+    "Customer_ID":7563
+  },
+  {
+    "Date":"2024-02-04",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":70.0,
+    "Price":485.01,
+    "Revenue":3217.83,
+    "Customer_ID":3658
+  },
+  {
+    "Date":"2025-03-24",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":72.0,
+    "Price":136.49,
+    "Revenue":3829.5,
+    "Customer_ID":4500
+  },
+  {
+    "Date":"2024-08-14",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":25.0,
+    "Price":331.8,
+    "Revenue":884.35,
+    "Customer_ID":9566
+  },
+  {
+    "Date":"2024-04-10",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":82.0,
+    "Price":169.34,
+    "Revenue":2361.63,
+    "Customer_ID":3120
+  },
+  {
+    "Date":"2025-03-06",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":89.0,
+    "Price":389.0,
+    "Revenue":145.72,
+    "Customer_ID":5020
+  },
+  {
+    "Date":"2025-04-06",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":12.0,
+    "Price":74.13,
+    "Revenue":1308.73,
+    "Customer_ID":4259
+  },
+  {
+    "Date":"2024-05-10",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":15.0,
+    "Price":485.21,
+    "Revenue":3659.66,
+    "Customer_ID":2823
+  },
+  {
+    "Date":"2024-09-13",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":59.0,
+    "Price":232.36,
+    "Revenue":4959.87,
+    "Customer_ID":2474
+  },
+  {
+    "Date":"2024-01-05",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":48.0,
+    "Price":125.66,
+    "Revenue":585.97,
+    "Customer_ID":3242
+  },
+  {
+    "Date":"2024-08-05",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":26.0,
+    "Price":46.01,
+    "Revenue":2067.32,
+    "Customer_ID":4243
+  },
+  {
+    "Date":"2024-09-11",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":47.0,
+    "Price":93.18,
+    "Revenue":4020.35,
+    "Customer_ID":7990
+  },
+  {
+    "Date":"2025-02-01",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":48.0,
+    "Price":264.69,
+    "Revenue":1099.77,
+    "Customer_ID":6160
+  },
+  {
+    "Date":"2024-12-24",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":10.0,
+    "Price":175.13,
+    "Revenue":2819.92,
+    "Customer_ID":4134
+  },
+  {
+    "Date":"2024-10-09",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":16.0,
+    "Price":416.15,
+    "Revenue":3692.05,
+    "Customer_ID":3070
+  },
+  {
+    "Date":"2025-01-27",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":48.0,
+    "Price":221.13,
+    "Revenue":3118.33,
+    "Customer_ID":1359
+  },
+  {
+    "Date":"2024-07-25",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":17.0,
+    "Price":131.87,
+    "Revenue":1021.32,
+    "Customer_ID":2141
+  },
+  {
+    "Date":"2024-01-15",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":23.0,
+    "Price":312.4,
+    "Revenue":1841.38,
+    "Customer_ID":2635
+  },
+  {
+    "Date":"2024-12-11",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":26.0,
+    "Price":356.32,
+    "Revenue":3940.58,
+    "Customer_ID":5000
+  },
+  {
+    "Date":"2024-02-11",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":85.0,
+    "Price":91.85,
+    "Revenue":2815.71,
+    "Customer_ID":4361
+  },
+  {
+    "Date":"2025-01-14",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":86.0,
+    "Price":92.13,
+    "Revenue":125.63,
+    "Customer_ID":7583
+  },
+  {
+    "Date":"2025-04-05",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":7.0,
+    "Price":27.97,
+    "Revenue":3828.85,
+    "Customer_ID":8835
+  },
+  {
+    "Date":"2024-06-27",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":14.0,
+    "Price":370.84,
+    "Revenue":273.03,
+    "Customer_ID":1006
+  },
+  {
+    "Date":"2024-03-03",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":79.0,
+    "Price":335.26,
+    "Revenue":3754.1,
+    "Customer_ID":4267
+  },
+  {
+    "Date":"2024-12-17",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":7.0,
+    "Price":242.57,
+    "Revenue":2638.59,
+    "Customer_ID":7564
+  },
+  {
+    "Date":"2024-08-18",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":9.0,
+    "Price":423.64,
+    "Revenue":2638.59,
+    "Customer_ID":5928
+  },
+  {
+    "Date":"2024-08-28",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":48.0,
+    "Price":404.78,
+    "Revenue":1902.91,
+    "Customer_ID":3606
+  },
+  {
+    "Date":"2024-02-21",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":72.0,
+    "Price":296.82,
+    "Revenue":1701.96,
+    "Customer_ID":6906
+  },
+  {
+    "Date":"2024-04-05",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":59.0,
+    "Price":435.45,
+    "Revenue":829.55,
+    "Customer_ID":4273
+  },
+  {
+    "Date":"2025-01-22",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":87.0,
+    "Price":110.86,
+    "Revenue":1597.46,
+    "Customer_ID":8611
+  },
+  {
+    "Date":"2024-08-09",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":93.0,
+    "Price":64.84,
+    "Revenue":2638.59,
+    "Customer_ID":1913
+  },
+  {
+    "Date":"2025-04-29",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":82.0,
+    "Price":142.18,
+    "Revenue":4982.04,
+    "Customer_ID":3011
+  },
+  {
+    "Date":"2025-02-10",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":48.0,
+    "Price":37.97,
+    "Revenue":2638.59,
+    "Customer_ID":2442
+  },
+  {
+    "Date":"2024-08-18",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":48.0,
+    "Price":270.27,
+    "Revenue":2298.19,
+    "Customer_ID":6546
+  },
+  {
+    "Date":"2024-08-24",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":39.0,
+    "Price":468.94,
+    "Revenue":3638.15,
+    "Customer_ID":2829
+  },
+  {
+    "Date":"2024-05-22",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":99.0,
+    "Price":29.28,
+    "Revenue":4442.36,
+    "Customer_ID":9767
+  },
+  {
+    "Date":"2024-06-19",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":18.0,
+    "Price":69.83,
+    "Revenue":3005.92,
+    "Customer_ID":7468
+  },
+  {
+    "Date":"2024-01-29",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":59.0,
+    "Price":231.58,
+    "Revenue":2018.48,
+    "Customer_ID":1929
+  },
+  {
+    "Date":"2024-02-05",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":17.0,
+    "Price":467.6,
+    "Revenue":2121.85,
+    "Customer_ID":4699
+  },
+  {
+    "Date":"2024-01-13",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":48.0,
+    "Price":164.92,
+    "Revenue":3508.53,
+    "Customer_ID":2054
+  },
+  {
+    "Date":"2024-06-08",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":31.0,
+    "Price":258.55,
+    "Revenue":115.77,
+    "Customer_ID":6744
+  },
+  {
+    "Date":"2024-11-22",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":24.0,
+    "Price":30.37,
+    "Revenue":3135.99,
+    "Customer_ID":2900
+  },
+  {
+    "Date":"2024-07-05",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":99.0,
+    "Price":82.69,
+    "Revenue":1841.92,
+    "Customer_ID":7980
+  },
+  {
+    "Date":"2024-08-30",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":48.0,
+    "Price":493.45,
+    "Revenue":3991.57,
+    "Customer_ID":8069
+  },
+  {
+    "Date":"2024-03-26",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":45.0,
+    "Price":482.91,
+    "Revenue":555.65,
+    "Customer_ID":4415
+  },
+  {
+    "Date":"2024-10-10",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":48.0,
+    "Price":12.42,
+    "Revenue":2982.19,
+    "Customer_ID":1442
+  },
+  {
+    "Date":"2024-03-06",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":3.0,
+    "Price":476.39,
+    "Revenue":2456.77,
+    "Customer_ID":7218
+  },
+  {
+    "Date":"2024-06-18",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":37.0,
+    "Price":323.17,
+    "Revenue":3247.4,
+    "Customer_ID":5652
+  },
+  {
+    "Date":"2024-02-14",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":43.0,
+    "Price":435.28,
+    "Revenue":2638.59,
+    "Customer_ID":8939
+  },
+  {
+    "Date":"2024-03-02",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":40.0,
+    "Price":232.82,
+    "Revenue":2941.92,
+    "Customer_ID":8833
+  },
+  {
+    "Date":"2025-03-16",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":90.0,
+    "Price":262.64,
+    "Revenue":2851.27,
+    "Customer_ID":8597
+  },
+  {
+    "Date":"2024-05-13",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":55.0,
+    "Price":249.53,
+    "Revenue":2847.23,
+    "Customer_ID":5458
+  },
+  {
+    "Date":"2024-10-10",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":87.0,
+    "Price":336.76,
+    "Revenue":3057.09,
+    "Customer_ID":7591
+  },
+  {
+    "Date":"2024-01-28",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":39.0,
+    "Price":78.43,
+    "Revenue":3414.69,
+    "Customer_ID":3309
+  },
+  {
+    "Date":"2024-04-17",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":15.0,
+    "Price":24.69,
+    "Revenue":4044.45,
+    "Customer_ID":7268
+  },
+  {
+    "Date":"2024-02-13",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":4.0,
+    "Price":160.89,
+    "Revenue":1422.12,
+    "Customer_ID":1910
+  },
+  {
+    "Date":"2024-12-05",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":93.0,
+    "Price":355.29,
+    "Revenue":2638.59,
+    "Customer_ID":5340
+  },
+  {
+    "Date":"2024-10-12",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":86.0,
+    "Price":108.91,
+    "Revenue":2541.45,
+    "Customer_ID":5009
+  },
+  {
+    "Date":"2025-03-21",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":25.0,
+    "Price":339.98,
+    "Revenue":477.59,
+    "Customer_ID":7628
+  },
+  {
+    "Date":"2024-11-26",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":13.0,
+    "Price":485.26,
+    "Revenue":386.9,
+    "Customer_ID":3169
+  },
+  {
+    "Date":"2024-05-07",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":82.0,
+    "Price":56.01,
+    "Revenue":1737.77,
+    "Customer_ID":3172
+  },
+  {
+    "Date":"2024-12-13",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":48.0,
+    "Price":339.58,
+    "Revenue":3946.0,
+    "Customer_ID":6668
+  },
+  {
+    "Date":"2025-04-17",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":16.0,
+    "Price":227.44,
+    "Revenue":3567.64,
+    "Customer_ID":7313
+  },
+  {
+    "Date":"2024-08-18",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":42.0,
+    "Price":435.39,
+    "Revenue":3964.21,
+    "Customer_ID":9315
+  },
+  {
+    "Date":"2024-07-08",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":66.0,
+    "Price":96.8,
+    "Revenue":2634.62,
+    "Customer_ID":9036
+  },
+  {
+    "Date":"2024-08-12",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":55.0,
+    "Price":349.39,
+    "Revenue":2256.98,
+    "Customer_ID":7789
+  },
+  {
+    "Date":"2025-01-19",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":99.0,
+    "Price":420.68,
+    "Revenue":822.52,
+    "Customer_ID":1785
+  },
+  {
+    "Date":"2025-01-11",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":42.0,
+    "Price":472.86,
+    "Revenue":1708.14,
+    "Customer_ID":7139
+  },
+  {
+    "Date":"2024-10-09",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":48.0,
+    "Price":344.79,
+    "Revenue":2226.69,
+    "Customer_ID":7344
+  },
+  {
+    "Date":"2025-03-21",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":30.0,
+    "Price":253.62,
+    "Revenue":534.14,
+    "Customer_ID":3416
+  },
+  {
+    "Date":"2024-04-30",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":13.0,
+    "Price":312.75,
+    "Revenue":1181.0,
+    "Customer_ID":9988
+  },
+  {
+    "Date":"2024-04-25",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":13.0,
+    "Price":435.76,
+    "Revenue":3031.3,
+    "Customer_ID":5154
+  },
+  {
+    "Date":"2025-04-05",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":18.0,
+    "Price":289.6,
+    "Revenue":3704.75,
+    "Customer_ID":6619
+  },
+  {
+    "Date":"2024-08-20",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":32.0,
+    "Price":24.89,
+    "Revenue":4991.9,
+    "Customer_ID":2936
+  },
+  {
+    "Date":"2024-09-15",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":96.0,
+    "Price":466.16,
+    "Revenue":4672.26,
+    "Customer_ID":4807
+  },
+  {
+    "Date":"2024-12-24",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":99.0,
+    "Price":347.87,
+    "Revenue":3248.57,
+    "Customer_ID":8151
+  },
+  {
+    "Date":"2024-07-16",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":39.0,
+    "Price":341.49,
+    "Revenue":2164.12,
+    "Customer_ID":4236
+  },
+  {
+    "Date":"2025-03-31",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":46.0,
+    "Price":115.68,
+    "Revenue":3217.27,
+    "Customer_ID":3352
+  },
+  {
+    "Date":"2025-02-14",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":29.0,
+    "Price":332.85,
+    "Revenue":3949.69,
+    "Customer_ID":2932
+  },
+  {
+    "Date":"2024-05-16",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":62.0,
+    "Price":202.99,
+    "Revenue":679.85,
+    "Customer_ID":9556
+  },
+  {
+    "Date":"2024-11-13",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":93.0,
+    "Price":329.1,
+    "Revenue":2108.53,
+    "Customer_ID":5916
+  },
+  {
+    "Date":"2024-06-13",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":62.0,
+    "Price":62.23,
+    "Revenue":4215.03,
+    "Customer_ID":6498
+  },
+  {
+    "Date":"2024-08-12",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":57.0,
+    "Price":332.34,
+    "Revenue":1980.78,
+    "Customer_ID":1946
+  },
+  {
+    "Date":"2024-11-02",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":16.0,
+    "Price":499.71,
+    "Revenue":2902.17,
+    "Customer_ID":2439
+  },
+  {
+    "Date":"2024-08-21",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":56.0,
+    "Price":33.62,
+    "Revenue":2980.07,
+    "Customer_ID":8730
+  },
+  {
+    "Date":"2024-06-20",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":10.0,
+    "Price":488.82,
+    "Revenue":1003.93,
+    "Customer_ID":5857
+  },
+  {
+    "Date":"2024-05-31",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":30.0,
+    "Price":209.38,
+    "Revenue":2638.59,
+    "Customer_ID":1340
+  },
+  {
+    "Date":"2025-04-07",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":25.0,
+    "Price":436.67,
+    "Revenue":1739.11,
+    "Customer_ID":1382
+  },
+  {
+    "Date":"2024-11-10",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":84.0,
+    "Price":393.37,
+    "Revenue":228.36,
+    "Customer_ID":9491
+  },
+  {
+    "Date":"2025-01-08",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":5.0,
+    "Price":287.84,
+    "Revenue":218.54,
+    "Customer_ID":1138
+  },
+  {
+    "Date":"2024-06-08",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":65.0,
+    "Price":371.84,
+    "Revenue":4175.32,
+    "Customer_ID":1358
+  },
+  {
+    "Date":"2024-04-05",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":94.0,
+    "Price":440.47,
+    "Revenue":1438.05,
+    "Customer_ID":5931
+  },
+  {
+    "Date":"2025-04-16",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":49.0,
+    "Price":208.03,
+    "Revenue":2638.59,
+    "Customer_ID":4456
+  },
+  {
+    "Date":"2024-08-20",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":3.0,
+    "Price":170.25,
+    "Revenue":1563.76,
+    "Customer_ID":2627
+  },
+  {
+    "Date":"2024-06-28",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":48.0,
+    "Price":337.12,
+    "Revenue":4709.33,
+    "Customer_ID":7626
+  },
+  {
+    "Date":"2024-04-22",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":14.0,
+    "Price":405.84,
+    "Revenue":1370.55,
+    "Customer_ID":6004
+  },
+  {
+    "Date":"2024-11-13",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":30.0,
+    "Price":383.52,
+    "Revenue":2205.32,
+    "Customer_ID":7652
+  },
+  {
+    "Date":"2025-05-11",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":68.0,
+    "Price":400.93,
+    "Revenue":4376.38,
+    "Customer_ID":7416
+  },
+  {
+    "Date":"2025-03-17",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":18.0,
+    "Price":223.44,
+    "Revenue":4225.47,
+    "Customer_ID":4170
+  },
+  {
+    "Date":"2024-02-21",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":62.0,
+    "Price":410.74,
+    "Revenue":1011.9,
+    "Customer_ID":4835
+  },
+  {
+    "Date":"2024-09-24",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":37.0,
+    "Price":68.9,
+    "Revenue":4032.95,
+    "Customer_ID":9017
+  },
+  {
+    "Date":"2024-10-21",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":25.0,
+    "Price":276.8,
+    "Revenue":2345.12,
+    "Customer_ID":3151
+  },
+  {
+    "Date":"2025-01-20",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":48.0,
+    "Price":12.82,
+    "Revenue":2466.55,
+    "Customer_ID":7905
+  },
+  {
+    "Date":"2025-01-21",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":65.0,
+    "Price":169.05,
+    "Revenue":754.05,
+    "Customer_ID":3834
+  },
+  {
+    "Date":"2024-04-22",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":53.0,
+    "Price":189.57,
+    "Revenue":2638.59,
+    "Customer_ID":3567
+  },
+  {
+    "Date":"2024-04-10",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":79.0,
+    "Price":204.12,
+    "Revenue":3666.9,
+    "Customer_ID":2307
+  },
+  {
+    "Date":"2024-04-22",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":73.0,
+    "Price":350.78,
+    "Revenue":2532.66,
+    "Customer_ID":9848
+  },
+  {
+    "Date":"2025-03-15",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":15.0,
+    "Price":200.39,
+    "Revenue":2240.57,
+    "Customer_ID":3660
+  },
+  {
+    "Date":"2024-03-21",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":49.0,
+    "Price":229.86,
+    "Revenue":3674.59,
+    "Customer_ID":4730
+  },
+  {
+    "Date":"2024-07-05",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":88.0,
+    "Price":126.4,
+    "Revenue":3851.01,
+    "Customer_ID":7207
+  },
+  {
+    "Date":"2024-04-22",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":68.0,
+    "Price":192.89,
+    "Revenue":878.65,
+    "Customer_ID":4162
+  },
+  {
+    "Date":"2024-01-02",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":12.0,
+    "Price":121.36,
+    "Revenue":3090.1,
+    "Customer_ID":2140
+  },
+  {
+    "Date":"2024-05-09",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":59.0,
+    "Price":45.87,
+    "Revenue":763.24,
+    "Customer_ID":9458
+  },
+  {
+    "Date":"2024-08-07",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":37.0,
+    "Price":305.69,
+    "Revenue":3781.74,
+    "Customer_ID":2708
+  },
+  {
+    "Date":"2024-02-23",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":61.0,
+    "Price":337.42,
+    "Revenue":3319.08,
+    "Customer_ID":4630
+  },
+  {
+    "Date":"2024-12-08",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":43.0,
+    "Price":313.55,
+    "Revenue":4787.41,
+    "Customer_ID":4211
+  },
+  {
+    "Date":"2025-04-29",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":48.0,
+    "Price":237.11,
+    "Revenue":437.89,
+    "Customer_ID":7538
+  },
+  {
+    "Date":"2024-08-11",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":39.0,
+    "Price":196.1,
+    "Revenue":379.57,
+    "Customer_ID":1475
+  },
+  {
+    "Date":"2024-08-12",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":56.0,
+    "Price":433.03,
+    "Revenue":1482.72,
+    "Customer_ID":8684
+  },
+  {
+    "Date":"2025-01-19",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":48.0,
+    "Price":264.35,
+    "Revenue":1382.36,
+    "Customer_ID":2207
+  },
+  {
+    "Date":"2025-02-06",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":46.0,
+    "Price":244.8,
+    "Revenue":1310.2,
+    "Customer_ID":2960
+  },
+  {
+    "Date":"2024-05-05",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":88.0,
+    "Price":22.56,
+    "Revenue":4540.65,
+    "Customer_ID":1557
+  },
+  {
+    "Date":"2024-05-09",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":11.0,
+    "Price":177.21,
+    "Revenue":1322.78,
+    "Customer_ID":1882
+  },
+  {
+    "Date":"2024-02-22",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":48.0,
+    "Price":196.3,
+    "Revenue":1432.55,
+    "Customer_ID":5761
+  },
+  {
+    "Date":"2024-06-20",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":77.0,
+    "Price":205.42,
+    "Revenue":3821.05,
+    "Customer_ID":6867
+  },
+  {
+    "Date":"2024-08-05",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":98.0,
+    "Price":294.28,
+    "Revenue":2303.73,
+    "Customer_ID":7963
+  },
+  {
+    "Date":"2024-06-08",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":25.0,
+    "Price":271.47,
+    "Revenue":3905.88,
+    "Customer_ID":8166
+  },
+  {
+    "Date":"2024-07-16",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":71.0,
+    "Price":307.87,
+    "Revenue":420.29,
+    "Customer_ID":8929
+  },
+  {
+    "Date":"2025-02-19",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":48.0,
+    "Price":384.79,
+    "Revenue":2489.1,
+    "Customer_ID":6347
+  },
+  {
+    "Date":"2024-09-03",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":4.0,
+    "Price":408.36,
+    "Revenue":264.71,
+    "Customer_ID":8269
+  },
+  {
+    "Date":"2024-11-19",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":59.0,
+    "Price":361.88,
+    "Revenue":407.0,
+    "Customer_ID":9125
+  },
+  {
+    "Date":"2025-03-14",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":72.0,
+    "Price":478.21,
+    "Revenue":4541.54,
+    "Customer_ID":3454
+  },
+  {
+    "Date":"2024-07-21",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":20.0,
+    "Price":18.93,
+    "Revenue":782.3,
+    "Customer_ID":5494
+  },
+  {
+    "Date":"2024-07-02",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":93.0,
+    "Price":105.93,
+    "Revenue":2708.86,
+    "Customer_ID":2946
+  },
+  {
+    "Date":"2024-05-02",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":63.0,
+    "Price":13.71,
+    "Revenue":2114.37,
+    "Customer_ID":3808
+  },
+  {
+    "Date":"2025-02-04",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":54.0,
+    "Price":327.26,
+    "Revenue":1801.98,
+    "Customer_ID":7642
+  },
+  {
+    "Date":"2024-09-11",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":74.0,
+    "Price":450.03,
+    "Revenue":4509.18,
+    "Customer_ID":4825
+  },
+  {
+    "Date":"2024-10-20",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":98.0,
+    "Price":129.31,
+    "Revenue":206.93,
+    "Customer_ID":4536
+  },
+  {
+    "Date":"2024-10-06",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":57.0,
+    "Price":464.25,
+    "Revenue":3352.57,
+    "Customer_ID":7068
+  },
+  {
+    "Date":"2024-11-20",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":90.0,
+    "Price":39.53,
+    "Revenue":4820.63,
+    "Customer_ID":4802
+  },
+  {
+    "Date":"2025-01-06",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":41.0,
+    "Price":467.87,
+    "Revenue":2844.82,
+    "Customer_ID":5699
+  },
+  {
+    "Date":"2024-04-07",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":3.0,
+    "Price":182.3,
+    "Revenue":4690.43,
+    "Customer_ID":2970
+  },
+  {
+    "Date":"2024-07-16",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":6.0,
+    "Price":59.7,
+    "Revenue":356.06,
+    "Customer_ID":6806
+  },
+  {
+    "Date":"2025-04-14",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":5.0,
+    "Price":248.08,
+    "Revenue":2152.09,
+    "Customer_ID":7142
+  },
+  {
+    "Date":"2025-01-29",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":5.0,
+    "Price":135.82,
+    "Revenue":2638.59,
+    "Customer_ID":3819
+  },
+  {
+    "Date":"2024-08-27",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":54.0,
+    "Price":149.59,
+    "Revenue":3681.02,
+    "Customer_ID":1364
+  },
+  {
+    "Date":"2024-05-23",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":48.0,
+    "Price":160.57,
+    "Revenue":4908.36,
+    "Customer_ID":5258
+  },
+  {
+    "Date":"2024-04-06",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":87.0,
+    "Price":403.48,
+    "Revenue":1357.0,
+    "Customer_ID":4119
+  },
+  {
+    "Date":"2024-07-19",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":49.0,
+    "Price":274.19,
+    "Revenue":3305.46,
+    "Customer_ID":2863
+  },
+  {
+    "Date":"2024-05-03",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":9.0,
+    "Price":162.54,
+    "Revenue":1070.68,
+    "Customer_ID":1115
+  },
+  {
+    "Date":"2024-07-05",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":99.0,
+    "Price":309.06,
+    "Revenue":2870.12,
+    "Customer_ID":8084
+  },
+  {
+    "Date":"2024-11-21",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":20.0,
+    "Price":360.91,
+    "Revenue":2373.27,
+    "Customer_ID":9016
+  },
+  {
+    "Date":"2025-04-08",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":61.0,
+    "Price":143.59,
+    "Revenue":4862.83,
+    "Customer_ID":3384
+  },
+  {
+    "Date":"2024-12-14",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":35.0,
+    "Price":212.64,
+    "Revenue":3081.78,
+    "Customer_ID":4935
+  },
+  {
+    "Date":"2024-09-15",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":50.0,
+    "Price":69.72,
+    "Revenue":1812.58,
+    "Customer_ID":8742
+  },
+  {
+    "Date":"2024-05-27",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":82.0,
+    "Price":98.76,
+    "Revenue":659.07,
+    "Customer_ID":6442
+  },
+  {
+    "Date":"2024-09-08",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":62.0,
+    "Price":343.75,
+    "Revenue":841.11,
+    "Customer_ID":3490
+  },
+  {
+    "Date":"2025-03-18",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":17.0,
+    "Price":98.9,
+    "Revenue":1204.05,
+    "Customer_ID":7980
+  },
+  {
+    "Date":"2025-02-23",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":88.0,
+    "Price":267.33,
+    "Revenue":1329.74,
+    "Customer_ID":8661
+  },
+  {
+    "Date":"2025-02-06",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":3.0,
+    "Price":357.43,
+    "Revenue":2638.59,
+    "Customer_ID":2724
+  },
+  {
+    "Date":"2024-12-11",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":32.0,
+    "Price":62.37,
+    "Revenue":2849.99,
+    "Customer_ID":9182
+  },
+  {
+    "Date":"2025-03-26",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":99.0,
+    "Price":287.98,
+    "Revenue":2664.62,
+    "Customer_ID":3767
+  },
+  {
+    "Date":"2024-05-26",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":13.0,
+    "Price":135.72,
+    "Revenue":662.37,
+    "Customer_ID":2137
+  },
+  {
+    "Date":"2024-05-27",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":89.0,
+    "Price":481.83,
+    "Revenue":4314.68,
+    "Customer_ID":5117
+  },
+  {
+    "Date":"2024-12-17",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":73.0,
+    "Price":246.94,
+    "Revenue":3641.79,
+    "Customer_ID":4420
+  },
+  {
+    "Date":"2024-07-17",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":68.0,
+    "Price":404.94,
+    "Revenue":431.57,
+    "Customer_ID":6845
+  },
+  {
+    "Date":"2024-11-03",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":14.0,
+    "Price":279.61,
+    "Revenue":3568.39,
+    "Customer_ID":5778
+  },
+  {
+    "Date":"2025-05-03",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":98.0,
+    "Price":31.27,
+    "Revenue":2763.34,
+    "Customer_ID":4906
+  },
+  {
+    "Date":"2025-02-20",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":11.0,
+    "Price":320.24,
+    "Revenue":500.45,
+    "Customer_ID":4637
+  },
+  {
+    "Date":"2025-02-27",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":56.0,
+    "Price":476.19,
+    "Revenue":2345.67,
+    "Customer_ID":3953
+  },
+  {
+    "Date":"2024-05-07",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":67.0,
+    "Price":304.79,
+    "Revenue":2475.01,
+    "Customer_ID":6929
+  },
+  {
+    "Date":"2024-02-08",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":92.0,
+    "Price":411.4,
+    "Revenue":912.3,
+    "Customer_ID":1276
+  },
+  {
+    "Date":"2024-12-03",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":29.0,
+    "Price":443.26,
+    "Revenue":4733.92,
+    "Customer_ID":2999
+  },
+  {
+    "Date":"2024-12-25",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":9.0,
+    "Price":121.76,
+    "Revenue":4264.88,
+    "Customer_ID":2227
+  },
+  {
+    "Date":"2024-05-08",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":48.0,
+    "Price":113.9,
+    "Revenue":3378.21,
+    "Customer_ID":7337
+  },
+  {
+    "Date":"2024-09-23",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":25.0,
+    "Price":309.38,
+    "Revenue":2365.25,
+    "Customer_ID":4735
+  },
+  {
+    "Date":"2025-04-20",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":98.0,
+    "Price":211.4,
+    "Revenue":2117.65,
+    "Customer_ID":1695
+  },
+  {
+    "Date":"2025-03-16",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":76.0,
+    "Price":421.53,
+    "Revenue":3289.77,
+    "Customer_ID":5152
+  },
+  {
+    "Date":"2025-04-17",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":42.0,
+    "Price":451.01,
+    "Revenue":2638.59,
+    "Customer_ID":8901
+  },
+  {
+    "Date":"2025-03-09",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":9.0,
+    "Price":183.18,
+    "Revenue":405.14,
+    "Customer_ID":8470
+  },
+  {
+    "Date":"2024-05-30",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":79.0,
+    "Price":126.07,
+    "Revenue":2611.26,
+    "Customer_ID":8537
+  },
+  {
+    "Date":"2025-02-18",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":40.0,
+    "Price":392.46,
+    "Revenue":4051.38,
+    "Customer_ID":3841
+  },
+  {
+    "Date":"2025-04-22",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":25.0,
+    "Price":144.65,
+    "Revenue":2350.28,
+    "Customer_ID":5208
+  },
+  {
+    "Date":"2024-10-24",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":5.0,
+    "Price":413.08,
+    "Revenue":354.59,
+    "Customer_ID":9733
+  },
+  {
+    "Date":"2024-04-08",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":11.0,
+    "Price":217.63,
+    "Revenue":3952.76,
+    "Customer_ID":2088
+  },
+  {
+    "Date":"2024-09-19",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":59.0,
+    "Price":337.1,
+    "Revenue":2638.59,
+    "Customer_ID":4363
+  },
+  {
+    "Date":"2024-09-08",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":48.0,
+    "Price":56.81,
+    "Revenue":1367.24,
+    "Customer_ID":1024
+  },
+  {
+    "Date":"2024-05-23",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":88.0,
+    "Price":315.69,
+    "Revenue":907.06,
+    "Customer_ID":7144
+  },
+  {
+    "Date":"2024-12-11",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":79.0,
+    "Price":231.37,
+    "Revenue":1718.05,
+    "Customer_ID":6668
+  },
+  {
+    "Date":"2024-04-21",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":38.0,
+    "Price":297.44,
+    "Revenue":2638.59,
+    "Customer_ID":5236
+  },
+  {
+    "Date":"2025-05-14",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":72.0,
+    "Price":92.33,
+    "Revenue":2644.99,
+    "Customer_ID":9068
+  },
+  {
+    "Date":"2024-02-29",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":5.0,
+    "Price":371.07,
+    "Revenue":1103.92,
+    "Customer_ID":3235
+  },
+  {
+    "Date":"2025-01-03",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":48.0,
+    "Price":432.77,
+    "Revenue":4401.37,
+    "Customer_ID":8295
+  },
+  {
+    "Date":"2024-01-02",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":90.0,
+    "Price":116.2,
+    "Revenue":4409.95,
+    "Customer_ID":9392
+  },
+  {
+    "Date":"2025-01-19",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":18.0,
+    "Price":56.9,
+    "Revenue":4365.83,
+    "Customer_ID":9448
+  },
+  {
+    "Date":"2024-10-30",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":70.0,
+    "Price":21.58,
+    "Revenue":1270.1,
+    "Customer_ID":4747
+  },
+  {
+    "Date":"2024-09-10",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":37.0,
+    "Price":324.57,
+    "Revenue":2311.07,
+    "Customer_ID":4175
+  },
+  {
+    "Date":"2024-05-19",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":60.0,
+    "Price":307.48,
+    "Revenue":4926.45,
+    "Customer_ID":5897
+  },
+  {
+    "Date":"2025-03-28",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":48.0,
+    "Price":277.88,
+    "Revenue":3882.86,
+    "Customer_ID":6037
+  },
+  {
+    "Date":"2024-02-06",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":77.0,
+    "Price":123.65,
+    "Revenue":233.12,
+    "Customer_ID":8427
+  },
+  {
+    "Date":"2024-06-08",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":28.0,
+    "Price":201.54,
+    "Revenue":419.5,
+    "Customer_ID":9605
+  },
+  {
+    "Date":"2024-01-09",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":69.0,
+    "Price":301.29,
+    "Revenue":2373.26,
+    "Customer_ID":3014
+  },
+  {
+    "Date":"2024-08-20",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":77.0,
+    "Price":253.42,
+    "Revenue":4555.18,
+    "Customer_ID":2381
+  },
+  {
+    "Date":"2024-04-08",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":81.0,
+    "Price":494.01,
+    "Revenue":2739.64,
+    "Customer_ID":2098
+  },
+  {
+    "Date":"2024-05-26",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":40.0,
+    "Price":76.86,
+    "Revenue":2539.28,
+    "Customer_ID":4426
+  },
+  {
+    "Date":"2024-10-30",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":45.0,
+    "Price":350.62,
+    "Revenue":616.82,
+    "Customer_ID":4655
+  },
+  {
+    "Date":"2024-07-26",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":96.0,
+    "Price":208.12,
+    "Revenue":3318.22,
+    "Customer_ID":8938
+  },
+  {
+    "Date":"2024-05-10",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":62.0,
+    "Price":219.82,
+    "Revenue":4128.31,
+    "Customer_ID":1187
+  },
+  {
+    "Date":"2025-02-07",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":93.0,
+    "Price":361.62,
+    "Revenue":1964.06,
+    "Customer_ID":6409
+  },
+  {
+    "Date":"2024-05-31",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":58.0,
+    "Price":349.29,
+    "Revenue":3900.5,
+    "Customer_ID":3092
+  },
+  {
+    "Date":"2024-02-23",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":67.0,
+    "Price":495.72,
+    "Revenue":4825.94,
+    "Customer_ID":3130
+  },
+  {
+    "Date":"2024-04-29",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":56.0,
+    "Price":72.91,
+    "Revenue":1098.46,
+    "Customer_ID":6242
+  },
+  {
+    "Date":"2024-06-09",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":40.0,
+    "Price":61.01,
+    "Revenue":2664.32,
+    "Customer_ID":9549
+  },
+  {
+    "Date":"2025-02-11",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":48.0,
+    "Price":364.93,
+    "Revenue":1506.98,
+    "Customer_ID":6647
+  },
+  {
+    "Date":"2024-04-25",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":40.0,
+    "Price":293.41,
+    "Revenue":3984.99,
+    "Customer_ID":6185
+  },
+  {
+    "Date":"2024-03-15",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":91.0,
+    "Price":144.34,
+    "Revenue":2930.21,
+    "Customer_ID":6776
+  },
+  {
+    "Date":"2024-04-22",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":48.0,
+    "Price":48.92,
+    "Revenue":3209.45,
+    "Customer_ID":8913
+  },
+  {
+    "Date":"2025-03-31",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":33.0,
+    "Price":51.97,
+    "Revenue":4009.78,
+    "Customer_ID":8547
+  },
+  {
+    "Date":"2025-02-23",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":6.0,
+    "Price":448.15,
+    "Revenue":2040.26,
+    "Customer_ID":8823
+  },
+  {
+    "Date":"2025-02-25",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":88.0,
+    "Price":104.01,
+    "Revenue":4583.94,
+    "Customer_ID":8355
+  },
+  {
+    "Date":"2024-04-13",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":19.0,
+    "Price":168.45,
+    "Revenue":2711.84,
+    "Customer_ID":7465
+  },
+  {
+    "Date":"2024-12-05",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":80.0,
+    "Price":121.06,
+    "Revenue":873.98,
+    "Customer_ID":2497
+  },
+  {
+    "Date":"2024-09-10",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":40.0,
+    "Price":183.95,
+    "Revenue":3509.91,
+    "Customer_ID":3555
+  },
+  {
+    "Date":"2024-08-14",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":92.0,
+    "Price":44.02,
+    "Revenue":3986.98,
+    "Customer_ID":6409
+  },
+  {
+    "Date":"2024-04-21",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":97.0,
+    "Price":264.34,
+    "Revenue":1652.13,
+    "Customer_ID":3951
+  },
+  {
+    "Date":"2025-04-17",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":59.0,
+    "Price":43.13,
+    "Revenue":4300.18,
+    "Customer_ID":2238
+  },
+  {
+    "Date":"2024-04-08",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":59.0,
+    "Price":402.17,
+    "Revenue":4540.1,
+    "Customer_ID":5727
+  },
+  {
+    "Date":"2024-06-01",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":48.0,
+    "Price":124.52,
+    "Revenue":1456.83,
+    "Customer_ID":4965
+  },
+  {
+    "Date":"2024-12-14",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":41.0,
+    "Price":274.61,
+    "Revenue":4919.26,
+    "Customer_ID":6686
+  },
+  {
+    "Date":"2025-02-05",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":13.0,
+    "Price":441.24,
+    "Revenue":789.49,
+    "Customer_ID":4701
+  },
+  {
+    "Date":"2025-01-18",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":45.0,
+    "Price":328.93,
+    "Revenue":1089.88,
+    "Customer_ID":3780
+  },
+  {
+    "Date":"2024-12-31",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":89.0,
+    "Price":271.15,
+    "Revenue":1002.7,
+    "Customer_ID":8398
+  },
+  {
+    "Date":"2024-12-03",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":53.0,
+    "Price":168.92,
+    "Revenue":4480.55,
+    "Customer_ID":2588
+  },
+  {
+    "Date":"2024-07-12",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":42.0,
+    "Price":173.17,
+    "Revenue":3306.03,
+    "Customer_ID":3368
+  },
+  {
+    "Date":"2024-11-05",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":63.0,
+    "Price":338.05,
+    "Revenue":845.31,
+    "Customer_ID":6789
+  },
+  {
+    "Date":"2024-06-11",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":27.0,
+    "Price":497.13,
+    "Revenue":2257.58,
+    "Customer_ID":1436
+  },
+  {
+    "Date":"2024-07-26",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":38.0,
+    "Price":334.3,
+    "Revenue":3114.96,
+    "Customer_ID":3828
+  },
+  {
+    "Date":"2025-03-20",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":60.0,
+    "Price":283.31,
+    "Revenue":508.97,
+    "Customer_ID":2556
+  },
+  {
+    "Date":"2024-06-17",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":7.0,
+    "Price":368.02,
+    "Revenue":4423.84,
+    "Customer_ID":8570
+  },
+  {
+    "Date":"2025-04-28",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":5.0,
+    "Price":237.95,
+    "Revenue":4037.66,
+    "Customer_ID":8480
+  },
+  {
+    "Date":"2024-06-09",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":45.0,
+    "Price":39.47,
+    "Revenue":2575.51,
+    "Customer_ID":1182
+  },
+  {
+    "Date":"2024-03-08",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":58.0,
+    "Price":285.53,
+    "Revenue":4838.92,
+    "Customer_ID":8190
+  },
+  {
+    "Date":"2024-10-15",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":31.0,
+    "Price":479.24,
+    "Revenue":2147.03,
+    "Customer_ID":7687
+  },
+  {
+    "Date":"2025-02-01",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":23.0,
+    "Price":95.9,
+    "Revenue":4922.14,
+    "Customer_ID":6565
+  },
+  {
+    "Date":"2024-10-03",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":42.0,
+    "Price":348.1,
+    "Revenue":3372.81,
+    "Customer_ID":8241
+  },
+  {
+    "Date":"2024-10-30",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":10.0,
+    "Price":108.46,
+    "Revenue":3209.89,
+    "Customer_ID":8651
+  },
+  {
+    "Date":"2025-02-07",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":32.0,
+    "Price":272.56,
+    "Revenue":913.18,
+    "Customer_ID":6575
+  },
+  {
+    "Date":"2025-01-18",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":53.0,
+    "Price":57.37,
+    "Revenue":4421.45,
+    "Customer_ID":2589
+  },
+  {
+    "Date":"2025-01-26",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":30.0,
+    "Price":230.68,
+    "Revenue":2194.7,
+    "Customer_ID":9851
+  },
+  {
+    "Date":"2024-05-14",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":39.0,
+    "Price":380.52,
+    "Revenue":894.94,
+    "Customer_ID":1159
+  },
+  {
+    "Date":"2024-07-13",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":31.0,
+    "Price":180.31,
+    "Revenue":161.78,
+    "Customer_ID":7555
+  },
+  {
+    "Date":"2025-02-04",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":82.0,
+    "Price":335.81,
+    "Revenue":2842.8,
+    "Customer_ID":9244
+  },
+  {
+    "Date":"2024-05-07",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":2.0,
+    "Price":399.77,
+    "Revenue":2684.26,
+    "Customer_ID":7846
+  },
+  {
+    "Date":"2024-02-02",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":78.0,
+    "Price":464.32,
+    "Revenue":3624.83,
+    "Customer_ID":3307
+  },
+  {
+    "Date":"2024-06-24",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":48.0,
+    "Price":124.97,
+    "Revenue":4462.26,
+    "Customer_ID":2228
+  },
+  {
+    "Date":"2025-04-04",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":93.0,
+    "Price":205.66,
+    "Revenue":489.09,
+    "Customer_ID":8226
+  },
+  {
+    "Date":"2025-03-18",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":12.0,
+    "Price":84.68,
+    "Revenue":3684.33,
+    "Customer_ID":6590
+  },
+  {
+    "Date":"2025-01-05",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":39.0,
+    "Price":496.32,
+    "Revenue":1018.32,
+    "Customer_ID":7919
+  },
+  {
+    "Date":"2025-04-14",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":66.0,
+    "Price":464.23,
+    "Revenue":4305.07,
+    "Customer_ID":6585
+  },
+  {
+    "Date":"2025-01-09",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":96.0,
+    "Price":274.58,
+    "Revenue":4113.41,
+    "Customer_ID":7046
+  },
+  {
+    "Date":"2024-01-22",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":13.0,
+    "Price":422.6,
+    "Revenue":2749.89,
+    "Customer_ID":5945
+  },
+  {
+    "Date":"2024-08-25",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":46.0,
+    "Price":265.27,
+    "Revenue":3580.19,
+    "Customer_ID":8927
+  },
+  {
+    "Date":"2024-06-06",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":27.0,
+    "Price":315.56,
+    "Revenue":1640.32,
+    "Customer_ID":8016
+  },
+  {
+    "Date":"2024-02-07",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":17.0,
+    "Price":53.67,
+    "Revenue":2408.72,
+    "Customer_ID":8758
+  },
+  {
+    "Date":"2024-08-17",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":95.0,
+    "Price":380.08,
+    "Revenue":4126.02,
+    "Customer_ID":6086
+  },
+  {
+    "Date":"2024-12-30",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":98.0,
+    "Price":72.58,
+    "Revenue":2350.4,
+    "Customer_ID":8161
+  },
+  {
+    "Date":"2024-02-20",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":60.0,
+    "Price":414.77,
+    "Revenue":1853.21,
+    "Customer_ID":2884
+  },
+  {
+    "Date":"2025-03-13",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":64.0,
+    "Price":393.19,
+    "Revenue":2521.64,
+    "Customer_ID":2809
+  },
+  {
+    "Date":"2024-09-20",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":88.0,
+    "Price":357.28,
+    "Revenue":4158.42,
+    "Customer_ID":4167
+  },
+  {
+    "Date":"2024-10-09",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":35.0,
+    "Price":27.72,
+    "Revenue":1742.52,
+    "Customer_ID":7352
+  },
+  {
+    "Date":"2024-01-27",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":70.0,
+    "Price":158.53,
+    "Revenue":951.43,
+    "Customer_ID":7056
+  },
+  {
+    "Date":"2024-08-13",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":83.0,
+    "Price":138.93,
+    "Revenue":3588.87,
+    "Customer_ID":3437
+  },
+  {
+    "Date":"2024-10-03",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":30.0,
+    "Price":186.47,
+    "Revenue":4147.29,
+    "Customer_ID":7468
+  },
+  {
+    "Date":"2024-10-12",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":71.0,
+    "Price":52.94,
+    "Revenue":593.12,
+    "Customer_ID":6951
+  },
+  {
+    "Date":"2024-04-06",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":74.0,
+    "Price":469.11,
+    "Revenue":1275.38,
+    "Customer_ID":6276
+  },
+  {
+    "Date":"2024-10-10",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":96.0,
+    "Price":281.36,
+    "Revenue":795.66,
+    "Customer_ID":9859
+  },
+  {
+    "Date":"2025-01-01",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":98.0,
+    "Price":159.71,
+    "Revenue":1804.91,
+    "Customer_ID":8818
+  },
+  {
+    "Date":"2025-03-23",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":63.0,
+    "Price":204.52,
+    "Revenue":2306.72,
+    "Customer_ID":5728
+  },
+  {
+    "Date":"2025-04-25",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":28.0,
+    "Price":229.13,
+    "Revenue":3769.25,
+    "Customer_ID":3624
+  },
+  {
+    "Date":"2025-03-28",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":60.0,
+    "Price":304.29,
+    "Revenue":3290.62,
+    "Customer_ID":6738
+  },
+  {
+    "Date":"2024-11-12",
+    "Product":"Product D",
+    "Region":"East",
+    "Quantity":79.0,
+    "Price":262.68,
+    "Revenue":3142.55,
+    "Customer_ID":5232
+  },
+  {
+    "Date":"2024-10-30",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":94.0,
+    "Price":460.5,
+    "Revenue":1826.64,
+    "Customer_ID":6793
+  },
+  {
+    "Date":"2024-05-26",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":37.0,
+    "Price":253.51,
+    "Revenue":4223.09,
+    "Customer_ID":5523
+  },
+  {
+    "Date":"2024-01-04",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":93.0,
+    "Price":496.16,
+    "Revenue":2409.31,
+    "Customer_ID":6571
+  },
+  {
+    "Date":"2024-02-04",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":22.0,
+    "Price":427.2,
+    "Revenue":4897.61,
+    "Customer_ID":3224
+  },
+  {
+    "Date":"2024-07-10",
+    "Product":"Product E",
+    "Region":"East",
+    "Quantity":68.0,
+    "Price":112.17,
+    "Revenue":3207.3,
+    "Customer_ID":9389
+  },
+  {
+    "Date":"2024-02-18",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":20.0,
+    "Price":465.99,
+    "Revenue":718.7,
+    "Customer_ID":7091
+  },
+  {
+    "Date":"2024-01-17",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":96.0,
+    "Price":67.02,
+    "Revenue":3413.27,
+    "Customer_ID":9662
+  },
+  {
+    "Date":"2024-06-20",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":68.0,
+    "Price":410.55,
+    "Revenue":1693.01,
+    "Customer_ID":7361
+  },
+  {
+    "Date":"2024-08-07",
+    "Product":"Product B",
+    "Region":"North",
+    "Quantity":91.0,
+    "Price":196.51,
+    "Revenue":3463.0,
+    "Customer_ID":2948
+  },
+  {
+    "Date":"2024-06-06",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":64.0,
+    "Price":440.21,
+    "Revenue":441.24,
+    "Customer_ID":8094
+  },
+  {
+    "Date":"2025-04-21",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":17.0,
+    "Price":435.35,
+    "Revenue":956.92,
+    "Customer_ID":7318
+  },
+  {
+    "Date":"2024-02-15",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":12.0,
+    "Price":404.9,
+    "Revenue":2638.59,
+    "Customer_ID":4796
+  },
+  {
+    "Date":"2025-01-07",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":22.0,
+    "Price":397.11,
+    "Revenue":1213.18,
+    "Customer_ID":1234
+  },
+  {
+    "Date":"2024-01-06",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":17.0,
+    "Price":159.29,
+    "Revenue":4201.5,
+    "Customer_ID":4607
+  },
+  {
+    "Date":"2024-04-08",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":10.0,
+    "Price":49.65,
+    "Revenue":1468.45,
+    "Customer_ID":9043
+  },
+  {
+    "Date":"2025-01-14",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":65.0,
+    "Price":207.46,
+    "Revenue":3250.12,
+    "Customer_ID":1522
+  },
+  {
+    "Date":"2024-08-20",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":22.0,
+    "Price":95.03,
+    "Revenue":3501.34,
+    "Customer_ID":6904
+  },
+  {
+    "Date":"2024-02-06",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":48.0,
+    "Price":350.53,
+    "Revenue":2612.01,
+    "Customer_ID":5888
+  },
+  {
+    "Date":"2024-10-06",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":82.0,
+    "Price":179.59,
+    "Revenue":1596.02,
+    "Customer_ID":6832
+  },
+  {
+    "Date":"2024-12-14",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":50.0,
+    "Price":488.05,
+    "Revenue":1141.96,
+    "Customer_ID":8122
+  },
+  {
+    "Date":"2025-05-11",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":14.0,
+    "Price":324.08,
+    "Revenue":2638.59,
+    "Customer_ID":6842
+  },
+  {
+    "Date":"2024-10-28",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":48.0,
+    "Price":413.02,
+    "Revenue":1589.34,
+    "Customer_ID":2316
+  },
+  {
+    "Date":"2024-06-29",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":47.0,
+    "Price":74.94,
+    "Revenue":3300.5,
+    "Customer_ID":2124
+  },
+  {
+    "Date":"2024-04-04",
+    "Product":"Product A",
+    "Region":"East",
+    "Quantity":29.0,
+    "Price":432.39,
+    "Revenue":4697.69,
+    "Customer_ID":6621
+  },
+  {
+    "Date":"2024-04-08",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":76.0,
+    "Price":462.15,
+    "Revenue":4368.9,
+    "Customer_ID":6423
+  },
+  {
+    "Date":"2024-07-06",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":36.0,
+    "Price":248.66,
+    "Revenue":3853.72,
+    "Customer_ID":3587
+  },
+  {
+    "Date":"2025-04-25",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":99.0,
+    "Price":307.06,
+    "Revenue":3963.39,
+    "Customer_ID":6672
+  },
+  {
+    "Date":"2024-04-25",
+    "Product":"Product B",
+    "Region":"South",
+    "Quantity":48.0,
+    "Price":384.76,
+    "Revenue":3358.43,
+    "Customer_ID":2378
+  },
+  {
+    "Date":"2024-07-09",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":76.0,
+    "Price":95.67,
+    "Revenue":1375.41,
+    "Customer_ID":4374
+  },
+  {
+    "Date":"2024-09-09",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":7.0,
+    "Price":256.26,
+    "Revenue":4545.26,
+    "Customer_ID":2519
+  },
+  {
+    "Date":"2025-04-13",
+    "Product":"Product E",
+    "Region":"North",
+    "Quantity":29.0,
+    "Price":205.34,
+    "Revenue":3386.59,
+    "Customer_ID":6777
+  },
+  {
+    "Date":"2025-02-19",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":11.0,
+    "Price":81.72,
+    "Revenue":2846.16,
+    "Customer_ID":8935
+  },
+  {
+    "Date":"2025-04-15",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":33.0,
+    "Price":190.09,
+    "Revenue":643.85,
+    "Customer_ID":7093
+  },
+  {
+    "Date":"2024-06-09",
+    "Product":"Product C",
+    "Region":"North",
+    "Quantity":6.0,
+    "Price":43.4,
+    "Revenue":2290.57,
+    "Customer_ID":9418
+  },
+  {
+    "Date":"2024-09-12",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":79.0,
+    "Price":22.65,
+    "Revenue":2355.76,
+    "Customer_ID":6355
+  },
+  {
+    "Date":"2024-11-18",
+    "Product":"Product C",
+    "Region":"East",
+    "Quantity":32.0,
+    "Price":76.23,
+    "Revenue":4336.36,
+    "Customer_ID":5968
+  },
+  {
+    "Date":"2024-05-07",
+    "Product":"Product D",
+    "Region":"West",
+    "Quantity":51.0,
+    "Price":481.93,
+    "Revenue":2778.58,
+    "Customer_ID":6574
+  },
+  {
+    "Date":"2024-01-18",
+    "Product":"Product E",
+    "Region":"South",
+    "Quantity":75.0,
+    "Price":279.27,
+    "Revenue":1963.96,
+    "Customer_ID":5072
+  },
+  {
+    "Date":"2024-10-07",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":58.0,
+    "Price":483.25,
+    "Revenue":4886.32,
+    "Customer_ID":3257
+  },
+  {
+    "Date":"2025-05-04",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":87.0,
+    "Price":221.92,
+    "Revenue":642.53,
+    "Customer_ID":9588
+  },
+  {
+    "Date":"2024-08-10",
+    "Product":"Product C",
+    "Region":"West",
+    "Quantity":26.0,
+    "Price":162.79,
+    "Revenue":2170.49,
+    "Customer_ID":5424
+  },
+  {
+    "Date":"2024-02-23",
+    "Product":"Product C",
+    "Region":"South",
+    "Quantity":98.0,
+    "Price":258.01,
+    "Revenue":305.92,
+    "Customer_ID":4237
+  },
+  {
+    "Date":"2024-02-27",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":46.0,
+    "Price":225.36,
+    "Revenue":2638.59,
+    "Customer_ID":4893
+  },
+  {
+    "Date":"2024-11-18",
+    "Product":"Product E",
+    "Region":"West",
+    "Quantity":98.0,
+    "Price":61.78,
+    "Revenue":4598.58,
+    "Customer_ID":3005
+  },
+  {
+    "Date":"2024-12-25",
+    "Product":"Product D",
+    "Region":"South",
+    "Quantity":29.0,
+    "Price":324.0,
+    "Revenue":1472.18,
+    "Customer_ID":3016
+  },
+  {
+    "Date":"2024-06-22",
+    "Product":"Product B",
+    "Region":"East",
+    "Quantity":4.0,
+    "Price":115.86,
+    "Revenue":4305.87,
+    "Customer_ID":2772
+  },
+  {
+    "Date":"2024-10-06",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":81.0,
+    "Price":313.6,
+    "Revenue":1531.87,
+    "Customer_ID":9353
+  },
+  {
+    "Date":"2024-04-23",
+    "Product":"Product A",
+    "Region":"West",
+    "Quantity":99.0,
+    "Price":328.6,
+    "Revenue":4562.77,
+    "Customer_ID":4976
+  },
+  {
+    "Date":"2024-10-14",
+    "Product":"Product B",
+    "Region":"West",
+    "Quantity":13.0,
+    "Price":84.49,
+    "Revenue":3794.41,
+    "Customer_ID":2751
+  },
+  {
+    "Date":"2025-03-06",
+    "Product":"Product D",
+    "Region":"North",
+    "Quantity":48.0,
+    "Price":40.06,
+    "Revenue":4044.04,
+    "Customer_ID":9967
+  },
+  {
+    "Date":"2024-12-07",
+    "Product":"Product A",
+    "Region":"South",
+    "Quantity":15.0,
+    "Price":392.57,
+    "Revenue":188.23,
+    "Customer_ID":8430
+  },
+  {
+    "Date":"2024-05-30",
+    "Product":"Product A",
+    "Region":"North",
+    "Quantity":29.0,
+    "Price":235.3,
+    "Revenue":4817.77,
+    "Customer_ID":8170
+  }
+]
